@@ -1,0 +1,5 @@
+{
+  "name" : "alejandromarcu/test",
+  "autoload": { "files": ["HelloWorld.php"]},
+  "require": { "hhvm": "*"}
+} 
