@@ -1,5 +1,5 @@
 # test
-Just testing.  Travis: https://travis-ci.org/alejandromarcu/test.svg?branch=master
+Just testing.  Travis: [![Build Status](https://travis-ci.org/alejandromarcu/test.svg?branch=master)](https://travis-ci.org/alejandromarcu/test)
 
 ## Blah Blah
 
